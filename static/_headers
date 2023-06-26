@@ -1,0 +1,9 @@
+/*
+  Strict-Transport-Security: max-age=15552000; includeSubDomains; preload
+  X-Frame-Options "DENY"
+  X-Content-Type-Options "nosniff"
+  X-XSS-Protection "1; mode=block"
+  Referrer-Policy "same-origin"
+  Feature-Policy: microphone 'none'; geolocation 'none'; camera 'none';
+  ETag: "1239jdsfjn39dsfnjk230dss"
+  Last-Modified: Mon, 26 Jun 2023 10:00:00 GMT
